@@ -4,7 +4,9 @@ Al entrar a estos archivos podemos encontrar un clon de google algo básico a ba
 
 Bienvenidos a mi repositorio y a mi clon de google
 
-Atentamente 
+En caso de no encontrar el archivo en master, tranquilo pasate a main ahi encontraras el proyecto.
 
-Andres David Mantilla Sanchez
+Atentamente. 
+
+Andres David Mantilla Sanchez.
 
